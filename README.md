@@ -204,8 +204,7 @@ Dashboard is isolated from critical logic to prevent crashes.
 
 ## 1. Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/hylex-automation.git
-cd hylex-automation
+git clone https://github.com/MaxEdgar/HylexMC
 
 ---
 
@@ -217,30 +216,11 @@ npm install
 
 ## 3. Run
 
-node index.js
+node bot.js
 
 ---
 
-# GitHub Mobile Usage Guide
-
-GitHub Mobile is used for:
-
-- Editing files
-- Committing updates
-- Managing README
-- Creating branches
-- Creating releases
-
-It is NOT used to run the bot.
-
-Workflow:
-
-1. Edit files in GitHub Mobile.
-2. Commit changes.
-3. In Termux or PC:
-   git pull
-4. Restart bot if required.
-
+# 6dq pls dont ban me ah
 ---
 
 # Debugging & Stress Test Results
